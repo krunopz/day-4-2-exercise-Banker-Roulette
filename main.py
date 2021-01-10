@@ -11,3 +11,4 @@ print(names)
 winner=random.randint(0,len(names))
 print(f"{names[winner]} is going to buy the meal today!")
 
+#winner=random.choice(names)  does the radnom choice faster
